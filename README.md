@@ -1,6 +1,6 @@
 # Hey, I'm Mazen Al-Malki 👋
 
-I'm a Computer Science student** at Imam Mohammad Ibn Saud Islamic University.
+I'm a **Computer Science student** at Imam Mohammad Ibn Saud Islamic University.
 
 I'm passionate about technology and interested in exploring different fields, including **Artificial Intelligence, Software Engineering, and Web & Mobile Development**.
 
