@@ -1,21 +1,24 @@
 # Hey, I'm Mazen Almalki 👋
 
+### 👨‍💻 About Me
 I'm a **Computer Science student** at Imam Mohammad Ibn Saud Islamic University.
 
-I'm passionate about technology and interested in exploring different fields, including **Artificial Intelligence, Software Engineering, and Web & Mobile Development**.
+I'm interested in **AI, Software Engineering, and Web & Mobile Development**.
 
-- Improving my programming skills.
-- Exploring AI and new technologies.
-- Learning how to build web and mobile applications.
-- Developing my problem-solving skills.
+### 🚀 Currently Learning
+- Programming and problem-solving
+- AI and new technologies
+- Web and mobile app development
 
-- **Programming Languages:** Python, Java
-- **Web Technologies:** HTML, CSS
-- **Development Tools:** VS Code, GitHub
+### 🛠️ Skills & Tools
+- **Languages:** Python, Java
+- **Web:** HTML, CSS
+- **Tools:** VS Code, GitHub
 
+### 💡 Interests
 - Software Development
 - AI and Computer Vision
-- Building and designing applications
+- App Design and Development
 
-- **LinkedIn:** https://www.linkedin.com/in/mazen-almalki-72120030a/
-- 📍 Riyadh, Saudi Arabia
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mazen-almalki-72120030a/)
