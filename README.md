@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Mazen Al-Malki 👋
 
-<!--
-**MazenAlmalki/MazenAlmalki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student** at Imam Mohammad Ibn Saud Islamic University.
 
-Here are some ideas to get you started:
+I'm passionate about technology and interested in exploring different fields, including **Artificial Intelligence, Software Engineering, and Web & Mobile Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Improving my programming skills.
+- Exploring AI and new technologies.
+- Learning how to build web and mobile applications.
+- Developing my problem-solving skills.
+
+- **Programming Languages:** Python, Java
+- **Web Technologies:** HTML, CSS
+- **Development Tools:** VS Code, GitHub
+
+- Software Development
+- AI and Computer Vision
+- Building and designing applications
+
+- **LinkedIn:** https://www.linkedin.com/in/mazen-almalki-72120030a/)
+- 📍 Riyadh, Saudi Arabia
