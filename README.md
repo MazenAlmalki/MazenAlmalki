@@ -1,4 +1,4 @@
-# Hey, I'm Mazen Al-Malki 👋
+# Hey, I'm Mazen Almalki 👋
 
 I'm a **Computer Science student** at Imam Mohammad Ibn Saud Islamic University.
 
@@ -17,5 +17,5 @@ I'm passionate about technology and interested in exploring different fields, in
 - AI and Computer Vision
 - Building and designing applications
 
-- **LinkedIn:** https://www.linkedin.com/in/mazen-almalki-72120030a/)
+- **LinkedIn:** https://www.linkedin.com/in/mazen-almalki-72120030a/
 - 📍 Riyadh, Saudi Arabia
